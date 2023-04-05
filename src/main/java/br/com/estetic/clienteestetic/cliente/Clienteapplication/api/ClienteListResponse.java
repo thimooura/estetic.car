@@ -1,4 +1,4 @@
-package br.com.estetic.clienteestetic.cliente.api;
+package br.com.estetic.clienteestetic.cliente.Clienteapplication.api;
 
 import br.com.estetic.clienteestetic.cliente.domain.Cliente;
 import lombok.Value;

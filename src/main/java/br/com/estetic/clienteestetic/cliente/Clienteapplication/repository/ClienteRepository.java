@@ -1,4 +1,4 @@
-package br.com.estetic.clienteestetic.cliente.repository;
+package br.com.estetic.clienteestetic.cliente.Clienteapplication.repository;
 
 import br.com.estetic.clienteestetic.cliente.domain.Cliente;
 

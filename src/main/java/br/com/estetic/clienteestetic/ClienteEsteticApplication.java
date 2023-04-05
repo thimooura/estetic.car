@@ -1,4 +1,4 @@
-package br.com.estetic.clienteestetic.handler;
+package br.com.estetic.clienteestetic;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

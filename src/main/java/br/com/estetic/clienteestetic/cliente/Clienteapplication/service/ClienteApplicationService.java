@@ -1,11 +1,11 @@
-package br.com.estetic.clienteestetic.cliente.service;
+package br.com.estetic.clienteestetic.cliente.Clienteapplication.service;
 
-import br.com.estetic.clienteestetic.cliente.api.ClienteDetalhadoResponse;
-import br.com.estetic.clienteestetic.cliente.api.ClienteListResponse;
-import br.com.estetic.clienteestetic.cliente.api.ClienteRequest;
-import br.com.estetic.clienteestetic.cliente.api.ClienteResponse;
+import br.com.estetic.clienteestetic.cliente.Clienteapplication.api.ClienteDetalhadoResponse;
+import br.com.estetic.clienteestetic.cliente.Clienteapplication.api.ClienteListResponse;
+import br.com.estetic.clienteestetic.cliente.Clienteapplication.api.ClienteRequest;
+import br.com.estetic.clienteestetic.cliente.Clienteapplication.api.ClienteResponse;
 import br.com.estetic.clienteestetic.cliente.domain.Cliente;
-import br.com.estetic.clienteestetic.cliente.repository.ClienteRepository;
+import br.com.estetic.clienteestetic.cliente.Clienteapplication.repository.ClienteRepository;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.log4j.Log4j2;
 import org.springframework.stereotype.Service;

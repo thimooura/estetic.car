@@ -1,7 +1,7 @@
 package br.com.estetic.clienteestetic.cliente.infra;
 
 import br.com.estetic.clienteestetic.cliente.domain.Cliente;
-import br.com.estetic.clienteestetic.cliente.repository.ClienteRepository;
+import br.com.estetic.clienteestetic.cliente.Clienteapplication.repository.ClienteRepository;
 
 import br.com.estetic.clienteestetic.handler.APIException;
 import lombok.RequiredArgsConstructor;

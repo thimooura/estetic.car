@@ -1,6 +1,6 @@
-package br.com.estetic.clienteestetic.cliente.api;
+package br.com.estetic.clienteestetic.cliente.Clienteapplication.api;
 
-import br.com.estetic.clienteestetic.cliente.service.ClienteService;
+import br.com.estetic.clienteestetic.cliente.Clienteapplication.service.ClienteService;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.log4j.Log4j2;
 import org.springframework.web.bind.annotation.RestController;

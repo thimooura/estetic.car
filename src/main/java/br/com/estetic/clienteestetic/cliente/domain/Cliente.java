@@ -1,6 +1,6 @@
 package br.com.estetic.clienteestetic.cliente.domain;
 
-import br.com.estetic.clienteestetic.cliente.api.ClienteRequest;
+import br.com.estetic.clienteestetic.cliente.Clienteapplication.api.ClienteRequest;
 import jakarta.persistence.*;
 import lombok.AccessLevel;
 import lombok.Getter;
